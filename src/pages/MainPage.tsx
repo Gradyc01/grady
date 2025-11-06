@@ -1,4 +1,4 @@
-import { Camera, Github, Icon, Instagram, Linkedin } from "lucide-react";
+import { Github, Linkedin } from "lucide-react";
 import { motion } from "motion/react";
 import ProjectShowcase from "../components/ProjectShowcase";
 

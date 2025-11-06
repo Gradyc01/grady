@@ -2,7 +2,7 @@
   "name": "grady",
   "private": true,
   "version": "0.0.0",
-  "homepage":"http://gradyc01.github.io/grady",
+  "homepage":"https://gradyc01.github.io/grady/",
   "type": "module",
   "scripts": {
     "dev": "vite",

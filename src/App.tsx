@@ -1,17 +1,17 @@
 
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import MainPage from "./pages/MainPage";
 
 function App() {
 
   return (
     <div className="">
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           {/* Default (redirect or 404) */}
           <Route path="*" element={<MainPage />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }

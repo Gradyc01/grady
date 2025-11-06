@@ -28,10 +28,10 @@ const MainPage: React.FC = () => {
                 </div>
             </section> 
         </div>
-        <div className="flex flex-col max-w-7xl w-full items-center gap-3 ">
+        <div className="flex flex-col max-w-7xl w-full items-center gap-3 py-3">
             <section className="flex items-start w-full">
                 <span   
-                    className="text-6xl tracking-[0.1em] p-2
+                    className="text-6xl tracking-widest p-2
                     bg-linear-to-r from-gray-300 to-white bg-clip-text text-transparent font-regola-semibold">
                         Projects
                 </span>
